@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  cmsnginx:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2024-10-05T21:58:09.216895144Z"
+    description: A Helm chart for Kubernetes
+    digest: 401c63de444b7fb7763a1e0944deddbbd1d7968fa164c11bdfffe8922a1e0dfe
+    name: cmsnginx
+    type: application
+    urls:
+    - cmsnginx-0.1.0.tgz
+    version: 0.1.0
+generated: "2024-10-05T21:58:09.215556784Z"
