@@ -6,7 +6,7 @@ entries:
       artifacthub.io/changes: "- Added cool feature  \n"
     apiVersion: v2
     appVersion: 1.16.0
-    created: "2024-10-06T20:16:40.582955819Z"
+    created: "2024-10-06T20:33:48.703827704Z"
     description: A Helm chart for Kubernetes
     digest: cb9b4b86683785067a0837b13d566eb6bade0a9ade12f83c11abbaa53380adad
     name: nginx
@@ -19,7 +19,7 @@ entries:
       artifacthub.io/changes: "- Added cool feature  \n"
     apiVersion: v2
     appVersion: 1.16.0
-    created: "2024-10-06T20:16:40.582032909Z"
+    created: "2024-10-06T20:33:48.703380544Z"
     description: A Helm chart for Kubernetes
     digest: e41784f2988169ffd823aae861500b8dbf72ea26595197f1e1af095412b226ae
     name: nginx
@@ -32,7 +32,7 @@ entries:
       artifacthub.io/changes: "- Added cool feature  \n"
     apiVersion: v2
     appVersion: 1.16.0
-    created: "2024-10-06T20:16:40.58128155Z"
+    created: "2024-10-06T20:33:48.702954984Z"
     description: A Helm chart for Kubernetes
     digest: 394820214eaed9e67b305c949f8b1a59d66b6e92b1447c6e73e45ee0bdb5e290
     name: nginx
@@ -45,7 +45,7 @@ entries:
       artifacthub.io/changes: "- Added cool feature  \n"
     apiVersion: v2
     appVersion: 1.16.0
-    created: "2024-10-06T20:16:40.579711549Z"
+    created: "2024-10-06T20:33:48.702368245Z"
     description: A Helm chart for Kubernetes
     digest: ccf1990233cd3785b0884b8385e5fd9f5de7641b033f7feebe12b833886897c9
     name: nginx
@@ -58,7 +58,7 @@ entries:
       artifacthub.io/changes: "- Added cool feature  \n"
     apiVersion: v2
     appVersion: 1.16.0
-    created: "2024-10-06T20:16:40.57731469Z"
+    created: "2024-10-06T20:33:48.701898024Z"
     description: A Helm chart for Kubernetes
     digest: 26ec77e7a72ca311a6c1cbaff941df94575a55469ce56ab2e88ab35c90d54333
     name: nginx
@@ -71,7 +71,7 @@ entries:
       artifacthub.io/changes: "- Added cool feature  \n"
     apiVersion: v2
     appVersion: 1.16.0
-    created: "2024-10-06T20:16:40.57655947Z"
+    created: "2024-10-06T20:33:48.701416295Z"
     description: A Helm chart for Kubernetes
     digest: 8a2f6add94bcc5f63970800f5bb712b4009a518eae79ccd2214c73cb16825a84
     name: nginx
@@ -84,7 +84,7 @@ entries:
       artifacthub.io/changes: "- Added cool feature  \n"
     apiVersion: v2
     appVersion: 1.16.0
-    created: "2024-10-06T20:16:40.57576185Z"
+    created: "2024-10-06T20:33:48.700901895Z"
     description: A Helm chart for Kubernetes
     digest: 54712e1044610398b7d04958a46403ba11693f21cf973c29a8b1f31daae92cd7
     name: nginx
@@ -93,43 +93,42 @@ entries:
     - nginx-1.1.1.tgz
     version: 1.1.1
   - annotations:
-      artifacthub.io/category: echimp
+      artifacthub.io/category: integration-delivery
       artifacthub.io/changes: "- Added cool feature  \n"
     apiVersion: v2
     appVersion: 1.16.0
-    created: "2024-10-06T20:16:40.57500843Z"
+    created: "2024-10-06T20:33:48.700100295Z"
     description: A Helm chart for Kubernetes
-    digest: 489e45092e9c939aa1835fe838ad29751efa242c0ec2c97d518a372661a3de66
+    digest: 0898b02c5731aba5a19d9ebe478baad757fc0ccc1b57f7d985af24cd45dcd34e
     name: nginx
     type: application
     urls:
     - nginx-0.1.2.tgz
     version: 0.1.2
   - annotations:
-      artifacthub.io/category: echimp
+      artifacthub.io/category: integration-delivery
       artifacthub.io/changes: "- Added cool feature  \n"
     apiVersion: v2
     appVersion: 1.16.0
-    created: "2024-10-06T20:16:40.57416327Z"
+    created: "2024-10-06T20:33:48.697784385Z"
     description: A Helm chart for Kubernetes
-    digest: 08a08d7c608fcec04620efc67f046cd643dc23bd22d6adcdca03faa082980c22
+    digest: 452e9f037957cc4bbf746f1bbf5cc309cf2f33c3ddd504db0de04373c5dcf732
     name: nginx
     type: application
     urls:
     - nginx-0.1.1.tgz
     version: 0.1.1
   - annotations:
-      artifacthub.io/category: echimp
-      artifacthub.io/changes: |
-        - Added cool feature
+      artifacthub.io/category: integration-delivery
+      artifacthub.io/changes: "- Added cool feature  \n"
     apiVersion: v2
     appVersion: 1.16.0
-    created: "2024-10-06T20:16:40.57330099Z"
+    created: "2024-10-06T20:33:48.697261355Z"
     description: A Helm chart for Kubernetes
-    digest: 773a74349321ebb90fe5eed370f29de8593c70f6f07c702b03c885792bfd82ba
+    digest: 19df8f90e271935b3e9c953cf0176a1dc3a35264c3858ae88c055b6bb3176310
     name: nginx
     type: application
     urls:
     - nginx-0.1.0.tgz
     version: 0.1.0
-generated: "2024-10-06T20:16:40.571506521Z"
+generated: "2024-10-06T20:33:48.696529926Z"
