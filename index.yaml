@@ -3,7 +3,7 @@ entries:
   cmsnginx:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2024-10-05T21:58:09.216895144Z"
+    created: "2024-10-06T12:26:35.889629984Z"
     description: A Helm chart for Kubernetes
     digest: 401c63de444b7fb7763a1e0944deddbbd1d7968fa164c11bdfffe8922a1e0dfe
     name: cmsnginx
@@ -11,4 +11,35 @@ entries:
     urls:
     - cmsnginx-0.1.0.tgz
     version: 0.1.0
-generated: "2024-10-05T21:58:09.215556784Z"
+  nginx:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2024-10-06T12:26:35.892050403Z"
+    description: A Helm chart for Kubernetes
+    digest: 5cc90b95c56241470f4efc039f865de6b8019e781b46628fa2c6bcbb650c5777
+    name: nginx
+    type: application
+    urls:
+    - nginx-1.1.1.tgz
+    version: 1.1.1
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2024-10-06T12:26:35.891269723Z"
+    description: A Helm chart for Kubernetes
+    digest: 025819a3d0636dc7d71ccb2ed6d9fdc3c1df10b1f56ecd72b93ff260d7165391
+    name: nginx
+    type: application
+    urls:
+    - nginx-0.1.1.tgz
+    version: 0.1.1
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2024-10-06T12:26:35.890497323Z"
+    description: A Helm chart for Kubernetes
+    digest: 0ba0e9465f711bb049dd774b1f5fa410c5d864f381e939317ad39f6eaaa94b86
+    name: nginx
+    type: application
+    urls:
+    - nginx-0.1.0.tgz
+    version: 0.1.0
+generated: "2024-10-06T12:26:35.866182217Z"
